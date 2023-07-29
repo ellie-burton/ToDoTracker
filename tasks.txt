@@ -1,0 +1,14 @@
+wash face
+3
+read
+5
+run 
+10
+cook something
+10
+clean bathroom
+5
+make bed
+2
+hang w miles
+0
